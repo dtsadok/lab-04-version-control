@@ -1,1 +1,1 @@
-Isn't git fun?
+Isn't version control fun?
